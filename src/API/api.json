@@ -1,0 +1,217 @@
+{
+  "user": [
+    {
+      "username": "user1",
+      "password": "password123",
+      "email": "user1@gmail.com",
+      "id": "8182",
+      "phone": "0123456789",
+      "name": "userhihi"
+    },
+    {
+      "username": "user2",
+      "password": "123",
+      "email": "user2@gmail.com",
+      "id": "8182",
+      "phone": "0123456789",
+      "name": "userhihi"
+    },
+    {
+      "id": "5ddc",
+      "username": "minh",
+      "password": "2",
+      "email": "mi@gmail.com",
+      "phone": "11111111111",
+      "name": "userhihi"
+    },
+    {
+      "id": "330c",
+      "username": "m",
+      "password": "1",
+      "email": "gg@gmail.com",
+      "phone": "0123090044",
+      "name": "userhihi"
+    },
+    {
+      "id": "f626",
+      "username": "m",
+      "password": "1",
+      "email": "kk@gmail.com",
+      "phone": "1234567890",
+      "name": "userhihi"
+    },
+    {
+      "id": "d8b1",
+      "username": "minh22",
+      "password": "123",
+      "email": "minhzero@gmail.com",
+      "phone": "1234456679",
+      "name": "userhihi"
+    },
+    {
+      "id": "7b36",
+      "username": "dd",
+      "password": "1",
+      "email": "m@gmail.com",
+      "phone": "12345678",
+      "name": "userhihi"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "description": "Một cây cỏ xanh mướt để trang trí sân vườn của bạn.",
+      "price": 259,
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "size": "nhỏ",
+      "origin": "Việt Nam "
+    },
+    {
+      "id": "2",
+      "name": "Song of infia",
+      "description": "Cây cảnh nhỏ gọn, phù hợp để trồng trong nhà.",
+      "price": 199,
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000117-cay-xanh-chau-cay-tai-hinh-cay-canh-png-3.png",
+      "size": "nhỏ",
+      "origin": "Việt Nam "
+    },
+    {
+      "id": "3",
+      "name": "Pink Anthurium",
+      "description": "Cây lựu tươi mát, cho trái ngon.",
+      "price": 359,
+      "image": "https://png.pngtree.com/png-clipart/20210922/ourmid/pngtree-beautiful-bonsai-png-image_3950741.png",
+      "size": "nhỏ",
+      "origin": "Việt Nam "
+    },
+    {
+      "id": "4",
+      "name": "Black Love Anthurium",
+      "description": "Cây lựu tươi mát, cho trái ngon.",
+      "price": 359,
+      "image": "https://png.pngtree.com/png-clipart/20210922/ourmid/pngtree-beautiful-bonsai-png-image_3950741.png",
+      "stock": 20
+    },
+    {
+      "id": "5",
+      "name": "Grey Star Calarthea",
+      "description": "Cây lựu tươi mát, cho trái ngon.",
+      "price": 359,
+      "image": "https://png.pngtree.com/png-clipart/20210922/ourmid/pngtree-beautiful-bonsai-png-image_3950741.png",
+      "size": "nhỏ",
+      "origin": "Việt Nam "
+    },
+    {
+      "id": "6",
+      "name": "Plant",
+      "description": "Cây lựu tươi mát, cho trái ngon.",
+      "price": 359,
+      "image": "https://png.pngtree.com/png-clipart/20210922/ourmid/pngtree-beautiful-bonsai-png-image_3950741.png",
+      "size": "nhỏ",
+      "origin": "Việt Nam "
+    }
+  ],
+  "cart": [],
+  "bill": [
+    {
+      "id": "bdf9",
+      "name": "dd",
+      "address": "23rr",
+      "phoneNumber": "3233",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 10,
+      "total": 5180
+    },
+    {
+      "id": "d376",
+      "name": "dd",
+      "address": "23rr",
+      "phoneNumber": "3233",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 10,
+      "total": 5180
+    },
+    {
+      "id": "4c45",
+      "name": "minh",
+      "address": "22",
+      "phoneNumber": "4323434",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 9,
+      "total": 4662
+    },
+    {
+      "id": "ea52",
+      "name": "minh",
+      "address": "ww",
+      "phoneNumber": "12",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 2,
+      "total": 1036
+    },
+    {
+      "id": "9551",
+      "name": "f",
+      "address": "eee",
+      "phoneNumber": "123456789",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 10,
+      "total": 5180
+    },
+    {
+      "id": "5097",
+      "name": "tt",
+      "address": "rr",
+      "phoneNumber": "12222222",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 10,
+      "total": 5180
+    },
+    {
+      "id": "8c73",
+      "name": "minh",
+      "address": "dfdfdf",
+      "phoneNumber": "1234566778",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 4,
+      "total": 2072
+    },
+    {
+      "id": "d1b7",
+      "name": "",
+      "address": "",
+      "phoneNumber": "",
+      "title": "Spider Plant",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000125-cay-xanh-chau-cay-tai-hinh-cay-canh-png-11.png",
+      "price": 518,
+      "stock": 6,
+      "total": 3108
+    },
+    {
+      "id": "69d8",
+      "name": "minh",
+      "address": "aha",
+      "phoneNumber": "1234567890",
+      "title": "Song of infia",
+      "image": "https://free.vector6.com/wp-content/uploads/2021/03/0000000117-cay-xanh-chau-cay-tai-hinh-cay-canh-png-3.png",
+      "price": 199,
+      "stock": 3,
+      "total": 597
+    }
+  ]
+}
